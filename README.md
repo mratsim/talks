@@ -1,17 +1,44 @@
 # My talks, presentations, hackathons and keynotes
 
+My areas of interest include:
+- Impact investing, social finance and social impact
+- Programming, high-performance computing
+- Open-source
+- Cryptography
+- Data science & artificial intelligence
+- Blockchain, Ethereum and peer-to-peer (p2p) technologies
+- Decentralized finance and decentralized organizations
+- Societal impact, privacy, ethics and legal challenges of all the above
+- Business & Strategy related to all the above
 ## Presentations
 
-- [Los Altos Hacks V](https://www.losaltoshacks.com/), the largest West Coast's high school hackathon\
+Talks
+- 2016-04-18, Paris Impact Investing, [Doférence #1, Création article Wikipédia -  investissement à impact social](2016-04-18%20-%20Paris%20Impact%20Investing%20-%20Doference%201%20-%20Création%20Wikipedia%20investissement%20à%20impact%20social.pdf)
+- 2016-06-17, Paris Impact Investing, [Doférence #2, Carte de métro des placements à impact](2016-06-17%20-%20Paris%20Impact%20Investing%20-%20Doference%202%20-%20Carte%20de%20Metro%20des%20placements%20à%20impact.pdf)
+- 2016-07-04, Paris Impact Investing, [Doférence #3, Monnaies alternatives et complémentaires]()
+- 2016-10-24, Paris Impact Investing, [Conference with leading impact investors](2016-10-24%20-%20Paris%20Impact%20Investing%20Conference%20with%20leading%20impact%20investors.pdf)
+- 2017-02-02, Paris Impact investing, [Comment créer une licorne sociale](2017-02-02%20-%20Paris%20Impact%20Investing%20-%20Comment%20créer%20une%20licorne%20sociale.pdf)
+- 2017-05-11, Paris Kaggle Meetup, [Data Science - XGBoost vs LightGBM](2017-05-11%20-%20Paris%20Kaggle%20Meetup%20-%20XGBoost%20vs%20LightGBM.pdf)
+- 2018-03-19, HEC Alumnis, [Business Opportunities from Artificial Intelligence](2018-03-19%20-%20HEC%20Alumnis%20-%20Business%20Opportunities%20from%20Artificial%20Intelligence.pdf)
+- 2019-01-21, HEC Fashion Academy course, Deep learning for Fashion\
+[slides](2019-01-21%20-%20HEC%20Fashion%20Academy%20-%20Deep%20Learning%20for%20Fashion.pdf)\
+  [Course including full videos](https://docs.google.com/presentation/d/e/2PACX-1vTM1oTliVKa5NjnaGiQ4rEz-c41Uav81vUcqbG1UmPhuKHR3nekAxEOf-OLZzmrUjI6n1eA5o4e6arp/pub?start=false&loop=false&delayms=3000)
+- 2019-03-10, EthCC 2019, [Ethereum 2 tests and implementation](2019-03-10%20-%20EthCC%202019%20-%20Eth2%20tests%20and%20Implementation.pdf)
+- 2019-10-09, Devcon 5, [Ethereum 2.0 on a Raspberry Pi](2019-10-09%20-%20Devcon%205%20-%20Ethereum%202.0%20on%20a%20Raspberry%20Pi.pdf)
+- 2020-01-11, P2P Festival, [Why mass adoption of P2P tech will happen through countries in crisis](2020-01-11%20-%20P2P%20Festival%20-%20Why%20mass%20adoption%20of%20P2P%20tech%20will%20happen%20through%20countries%20in%20crisis.pdf)
+- 2020-02-02, FOSDEM 2020,\
+  [Designing an ultra-low overhead multithreading runtime](2020-02-02%20-%20FOSDEM%202020%20-%20Designing%20an%20ultra%20low-overhead%20multithreading%20runtime%20for%20Nim.pdf)
+- 2020-06-20, NimConf 2020, [Multithreading, the good, the bad and the buggy](2020-06-20%20-%20NimConf%202020%20-%20Multithreading,%20the%20good,%20the%20bad%20and%20the%20buggy.pdf)
+- 2021-04-24, [Los Altos Hacks V](https://www.losaltoshacks.com/), the largest West Coast's high school hackathon\
 [Blockchain - Building trust one block at a time.pdf](2021-04-24%20-%20Blockchain%20-%20Building%20trust%20one%20block%20at%20a%20time.pdf)
 
 ## Panels
 
 - 2018-06-26, Tomorrow Works by Comet\
   DSI : des rôles en pleine mutation\
-  (CIO, a role in profound transformation)
+  (CIO, a role in profound transformation)\
   https://tomorrowworks3.splashthat.com/
-- 2018-10-11, San Francisco Blockchain Week 2018
+- 2018-10-11, San Francisco Blockchain Week 2018\
   Sharding Ethereum and beyond\
   https://www.eventbrite.com/e/sharding-ethereum-and-beyond-moderated-by-metastable-capital-tickets-51091013597
 - 2019-04-19, INSEEC Business school\
@@ -21,32 +48,32 @@
   Ethereum 2 panel\
   https://www.youtube.com/watch?v=oWKLqCb0Qpg
 
-## Hackathons
+## Hackathons & Competitions
 
 - 2017-06-09, AI Labs, https://www.eventbrite.fr/e/billets-ai-labs-2017-34652200665#
   Rank #2, with AI-powered headhunting/client relationship management solution
-  that cross-references interactions across LinkedIn, Facebook and Google Suite.
+  that cross-references interactions across LinkedIn, Facebook and Google Suite.\
   Jury included partner at Iris Capital, Chief Innovation officer at EY and Managing Director of VivaTech.
-- 2017-11-18, McKinsey "IronMan" competition (24h no-sleep)
+- 2017-11-18, McKinsey "IronMan" competition (24h no-sleep)\
   Predict traffic in smart-cities
 - 2018-05-31, Best data scientist of France 2018, 2 hours competition.
-  Rank #44/350.
+  Rank #44/350.\
   For Label Emmaus, an upcycling non-profit marketplace:\
   Predict how long a recycled product will take to sell and so will occupy inventory.
-- 2019-01-26, Kaggle Days Paris, Christian Dior business case
+- 2019-01-26, Kaggle Days Paris, Christian Dior business case\
   Can we predict when and to whom we can advertise luxury product ads when 70% of the clients
   buy once every 10 years?
 - 2019-01-26, Kaggle Days Paris, LVMH competition\
   Time-series prediction of products sold given price, audience, photos and freeform description
-- 2019-03-02, Computational Law & Blockchain festival
-  https://hackmd.io/gj9WW11-T_yFLmy1DDl_Xw
+- 2019-03-02, Computational Law & Blockchain festival\
+  https://hackmd.io/gj9WW11-T_yFLmy1DDl_Xw \
   Topics:
   - Regulation of decentralized finance / Tokenisation of financial instruments
   - Software licenses in the blockchain context
   - International convention and standards on proofs
   - DAO recognition as a legal entity
   - Interesting legal precedents: Tezos, Mt Gox …
-- 2019-05-23, Data Science Olympics 2019, 2 hours competition.
+- 2019-05-23, Data Science Olympics 2019, 2 hours competition.\
   For the DGCS (Direction Générale de la Cohésion des Territoires) whose mission is to design, direct and evaluate public policies regarding solidarity, social development and equality promotion so as to foster social cohesion and support people self-reliance:\
   Predict the number of nights an emergency service can provide to an individual or a group (couple, family)
   taking into account children, social situation and violences.
