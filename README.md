@@ -31,8 +31,7 @@ Talks
 - 2020-06-20, NimConf 2020, [Multithreading, the good, the bad and the buggy](2020-06-20%20-%20NimConf%202020%20-%20Multithreading,%20the%20good,%20the%20bad%20and%20the%20buggy.pdf)
 - 2021-04-24, [Los Altos Hacks V](https://www.losaltoshacks.com/), the largest West Coast's high school hackathon\
 [Blockchain - Building trust one block at a time.pdf](2021-04-24%20-%20Blockchain%20-%20Building%20trust%20one%20block%20at%20a%20time.pdf)
-- 2021-06-26, NimConf 2021,\
-  (slides upcoming)
+- 2021-06-26, NimConf 2021, [Nim in Production](2021-06-26%20-%20NimConf%202021%20-%20Nim%20in%20Production.pdf)
 
 ## Panels
 
