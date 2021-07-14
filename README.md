@@ -1,4 +1,4 @@
-# My talks, presentations, hackathons and keynotes
+# My talks, panels, courses, hackathons, jury
 
 My areas of interest include:
 - Impact investing, social finance and social impact
@@ -57,6 +57,10 @@ My areas of interest include:
 - 2015-12-18, [Global Social Venture Competition](https://www.gsvc-essec.org/), Essec Business School & Berkeley Haas
   Preselection of social entreprises from Canada, Africa, Maghred and Western Europe.\
   The Global Social Venture Competition (GSVC) empowers the next generation of social entrepreneurs by providing them with mentoring, exposure, and over $50,000 in prizes to transform their ideas into ventures that address the world’s most pressing challenges. Teams from across the globe learn how to design scalable models through a process that emphasizes stakeholder discovery, business innovation, and social impact assessment.
+- 2018-03-18, Fi+ CFO Speednetworking sparring partner, [Fi+](https://fi-plus.com/).\
+  Fi+ is a network of French corporate financiers.\
+  The annual speednetworking event grants CFOs the opportunity to assess their career and presentation skills
+  with benevolent sparing partners.
 - 2021-07-05, Data Science certifications jury, [Jedha Bootcamp](https://en.jedha.co/)\
   The Jedha Bootcamp provides a certification recognized by France at the bac +3/+4 level for the Full Stack track (420 hours).\
   https://www.francecompetences.fr/recherche/rncp/35288/
