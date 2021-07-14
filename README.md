@@ -67,6 +67,12 @@ My areas of interest include:
 
 ## Hackathons & Competitions
 
+- 2016-12-09, Growthhacking challenge with Menu Next Door (Food startup) and The Family (VC fund)\
+  In 2 weeks:
+  
+  - grow the Menu Next Door Paris 12th district Facebook page from 2k to 8k subscribers,
+  - provide 70+ qualified chefs leads.
+  - organize a sold out cooking event that at least breaks even.
 - 2017-06-09, AI Labs, https://www.eventbrite.fr/e/billets-ai-labs-2017-34652200665#
   Rank #2, with AI-powered headhunting/client relationship management solution
   that cross-references interactions across LinkedIn, Facebook and Google Suite.\
