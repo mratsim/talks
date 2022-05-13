@@ -32,6 +32,7 @@ My areas of interest include:
 - 2021-04-24, [Los Altos Hacks V](https://www.losaltoshacks.com/), the largest West Coast's high school hackathon\
 [Blockchain - Building trust one block at a time.pdf](2021-04-24%20-%20Blockchain%20-%20Building%20trust%20one%20block%20at%20a%20time.pdf)
 - 2021-06-26, NimConf 2021, [Nim in Production](2021-06-26%20-%20NimConf%202021%20-%20Nim%20in%20Production.pdf)
+- 2022-04-22, Secureum TrustX, [Ethereum Consensus Client Security](2022-04-22%20-%20Secureum%20TrustX%20-%20Consensus%20clients%20security.pdf)
 
 ### Panels
 
@@ -50,7 +51,10 @@ My areas of interest include:
   https://www.youtube.com/watch?v=oWKLqCb0Qpg
 - 2021-06-15, SIGEF: Social Innovation & Global Ethics Forum\
   DeFi (Decentralized Finance): Shaping the Global Finance for a Better World\
-  blog post upcoming
+  https://www.youtube.com/watch?v=Qu6TsI6km8U&list=PLJAjDILFqj17YYHNkPFn5gx9rjVFklihV
+- 2021-04-22, Secureum TrustX\
+  Deep Dive: Consensus-layer Clients Security Round Table\
+  https://secureum.xyz/trustx
 
 ## Jury
 
