@@ -13,6 +13,7 @@ My areas of interest include:
 ## Presentations
 
 ### Talks
+
 - 2016-04-18, Paris Impact Investing, [Doférence #1, Création article Wikipédia -  investissement à impact social](2016-04-18%20-%20Paris%20Impact%20Investing%20-%20Doference%201%20-%20Création%20Wikipedia%20investissement%20à%20impact%20social.pdf)
 - 2016-06-17, Paris Impact Investing, [Doférence #2, Carte de métro des placements à impact](2016-06-17%20-%20Paris%20Impact%20Investing%20-%20Doference%202%20-%20Carte%20de%20Metro%20des%20placements%20à%20impact.pdf)
 - 2016-07-04, Paris Impact Investing, [Doférence #3, Monnaies alternatives et complémentaires]()
@@ -24,15 +25,26 @@ My areas of interest include:
 [slides](2019-01-21%20-%20HEC%20Fashion%20Academy%20-%20Deep%20Learning%20for%20Fashion.pdf)\
   [Course including full videos](https://docs.google.com/presentation/d/e/2PACX-1vTM1oTliVKa5NjnaGiQ4rEz-c41Uav81vUcqbG1UmPhuKHR3nekAxEOf-OLZzmrUjI6n1eA5o4e6arp/pub?start=false&loop=false&delayms=3000)
 - 2019-03-10, EthCC 2019, [Ethereum 2 tests and implementation](2019-03-10%20-%20EthCC%202019%20-%20Eth2%20tests%20and%20Implementation.pdf)
-- 2019-10-09, Devcon 5, [Ethereum 2.0 on a Raspberry Pi](2019-10-09%20-%20Devcon%205%20-%20Ethereum%202.0%20on%20a%20Raspberry%20Pi.pdf)
+- 2019-10-09, Devcon 5, [Ethereum 2.0 on a Raspberry Pi](2019-10-09%20-%20Devcon%205%20-%20Ethereum%202.0%20on%20a%20Raspberry%20Pi.pdf)\
+  https://www.youtube.com/watch?v=SgVsaXhTWNc&pp=ygUbdGhlIG1lcmdlIG1hbXkgcmF0c2ltYmF6YWZ5
 - 2020-01-11, P2P Festival, [Why mass adoption of P2P tech will happen through countries in crisis](2020-01-11%20-%20P2P%20Festival%20-%20Why%20mass%20adoption%20of%20P2P%20tech%20will%20happen%20through%20countries%20in%20crisis.pdf)
 - 2020-02-02, FOSDEM 2020,\
   [Designing an ultra-low overhead multithreading runtime](2020-02-02%20-%20FOSDEM%202020%20-%20Designing%20an%20ultra%20low-overhead%20multithreading%20runtime%20for%20Nim.pdf)
 - 2020-06-20, NimConf 2020, [Multithreading, the good, the bad and the buggy](2020-06-20%20-%20NimConf%202020%20-%20Multithreading,%20the%20good,%20the%20bad%20and%20the%20buggy.pdf)
+  - https://www.youtube.com/watch?v=NOAI2wH9Cf0&pp=ygUbdGhlIG1lcmdlIG1hbXkgcmF0c2ltYmF6YWZ5
 - 2021-04-24, [Los Altos Hacks V](https://www.losaltoshacks.com/), the largest West Coast's high school hackathon\
 [Blockchain - Building trust one block at a time.pdf](2021-04-24%20-%20Blockchain%20-%20Building%20trust%20one%20block%20at%20a%20time.pdf)
 - 2021-06-26, NimConf 2021, [Nim in Production](2021-06-26%20-%20NimConf%202021%20-%20Nim%20in%20Production.pdf)
 - 2022-04-22, Secureum TrustX, [Ethereum Consensus Client Security](2022-04-22%20-%20Secureum%20TrustX%20-%20Consensus%20clients%20security.pdf)
+- 2023-08-26, Encode.club ZK bootcamp, [High-assurance ZK](2023-08-23_26%20-%20High-assurance%20ZK.pdf)
+- 2023-08-26, ABCDE Hacker Camp by ABCDE Capital, [High-assurance ZK](2023-08-23_26%20-%20High-assurance%20ZK.pdf)
+  - https://www.youtube.com/watch?v=bGMxLlbPDDc
+- 2023-09-27, The Phoenix Guild, [Crafting your own cryptographic library from scratch](2023-09-27%20-%20Crafting%20your%20own%20cryptographic%20library.pdf)
+  - https://www.youtube.com/watch?v=WXiE9KrKuHY
+- 2023-11-13, Staking Gathering by EthStakers, [How restaking improves based rollup UX](2023-11-13%20-%20Staking%20Gathering%20-%20How%20restaking%20improves%20based%20rollup%20UX.pdf)
+  - https://www.youtube.com/watch?v=eqIot1rSa6o
+- 2023-11-15, ZK Accelerate by Ingonyama, [Standardizing zkEVMs acceleration API](2023-11-15%20-%20ZK%20Accelerate%20-%20Standardizing%20ZKEVM%20acceleration%20API.pdf)
+  - https://www.youtube.com/watch?v=ulx97KDv8Zs
 
 ### Panels
 
@@ -52,9 +64,39 @@ My areas of interest include:
 - 2021-06-15, SIGEF: Social Innovation & Global Ethics Forum\
   DeFi (Decentralized Finance): Shaping the Global Finance for a Better World\
   https://www.youtube.com/watch?v=Qu6TsI6km8U&list=PLJAjDILFqj17YYHNkPFn5gx9rjVFklihV
-- 2021-04-22, Secureum TrustX\
+- 2021-07-20, EthCC 4: Ethereum un protocole en mutation\
+  https://www.youtube.com/watch?v=KZiG2vWGhrg
+- 2022-04-22, Secureum TrustX\
   Deep Dive: Consensus-layer Clients Security Round Table\
   https://secureum.xyz/trustx
+- 2023-11-13, ZK Seasons by Cryptomeria Capital\
+  Harnessing the Power of ZKPs: A Deep Dive\
+- 2023-11-14, EVM Summit 0 by Ipsilon (Ethereum Foundation)\
+  Exploring the past, present, and future of zkEVMs\
+- 2023-11-14, Old Friends Reunion by IOSG Ventures\
+  Layer 2 Application
+- 2023-11-15, ZK Accelerate by Ingonyama\
+  New Frontiers in ZK Research\
+  https://www.youtube.com/watch?v=jhwJmBQBwD8
+
+### Chats
+
+- 2020-11-18, Ethereum France,\\
+  Se préparer pour Eth2\
+  https://www.youtube.com/watch?v=uVwkIdNom3c
+- 2023-07-20, OpenBuild Hackerhouse by Generatives Ventures & Foresight X\
+  Circuit Writing for ZKP and Development on Taiko\
+  https://www.youtube.com/watch?v=Zbhn9F99Nnc
+- 2023-07-21, AntAlpha Hacker House\
+  zkML Night\
+  https://www.youtube.com/watch?v=_GDSMMfdMxg
+- 2023-09-04, Taiko talks\
+  ZK Mystery, AI Experience and Taiko's approach\
+  https://www.youtube.com/watch?v=o6XuQKRC43g
+- 2023-10-12, Taiko Twitter Spaces\
+  Based Sequencing ft. Justin Drake (Ethereum Foundation)\
+  https://www.youtube.com/watch?v=RqgIEkAfpks
+
 
 ## Jury
 
@@ -73,7 +115,7 @@ My areas of interest include:
 
 - 2016-12-09, Growthhacking challenge with Menu Next Door (Food startup) and The Family (VC fund)\
   In 2 weeks:
-  
+
   - grow the Menu Next Door Paris 12th district Facebook page from 2k to 8k subscribers,
   - provide 70+ qualified chefs leads.
   - organize a sold out cooking event that at least breaks even.
